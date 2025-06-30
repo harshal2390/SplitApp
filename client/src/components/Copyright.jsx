@@ -18,7 +18,7 @@ export default function Copyright() {
       <Link
         variant="subtitle3"
         component={"a"}
-        href="https://github.com/tuzup/SplitApp/"
+        href="https://github.com/harshal2390/SplitApp"
         target="_blank"
       >
         [GitHub]
